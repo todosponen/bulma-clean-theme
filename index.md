@@ -12,7 +12,7 @@ This website showcases the options for the Bulma Clean theme. The theme is avail
 
 ## Ruby Gem
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](Creo que el texto va aquí y el link...)
+The ruby gem is available on the Ruby Gems website at the following location. [Este link puede ir a nuestros videos LOL](Creo que el texto va aquí y el link...)
 
 ## GitHub Pages
 
